@@ -5,7 +5,7 @@ I'm passionate about building web application and exploring new technologies, an
 
 ### 🏆 Current Projects
 - Currently hidden student project, where my part is creating a Rain Radar - A web app to track and visualize weather data using Leaflet and Next.js. My role in the project is "Scrum Master", and to communicate with the customer.
-- [BiteList](https://github.com/Ullebror/BiteList) - A mobile app built with React Native and Firebase that helps users find and save their favorite recipes.
+- [BiteList](https://github.com/Ullebror/BiteList) - A mobile app built with React Native and Firebase that helps users find recipes and create a shopping list from them.
 
 
 ### 📊 GitHub Stats
