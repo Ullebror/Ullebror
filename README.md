@@ -4,7 +4,7 @@ I'm currently studying to become a full-stack developer at [Haaga-Helia Universi
 I'm passionate about building web application and exploring new technologies, and I am always eager to learn more!
 
 ### 🏆 Current Projects
-- Currently hidden student project, where my part is creating a Rain Radar - A web app to track and visualize weather data using Leaflet and Next.js. My role in the project is "Scrum Master", and to communicate with the customer.
+- [Aerodrome Infoscreen](https://github.com/EHA-Display-Terminal-Team/eha-infoscreen) student project, where my part is creating a Rain Radar - A web app to track and visualize weather data using Leaflet and Next.js. My role in the project is "Scrum Master", and to communicate with the customer.
 - [BiteList](https://github.com/Ullebror/BiteList) - A mobile app built with React Native and Firebase that helps users find recipes and create a shopping list from them.
 
 
